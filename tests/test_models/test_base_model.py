@@ -7,7 +7,7 @@ Unittest classes:
     TestBaseModel_to_dict
 """
 import os
-import models
+import Basemodel
 import unittest
 from datetime import datetime
 from time import sleep
